@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+IP='104.236.156.197'
+
+mailcatcher --http-ip $IP
